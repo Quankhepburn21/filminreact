@@ -1,0 +1,10 @@
+
+h2 {
+  margin-bottom: 0;
+  transform: translateY(50%);
+}
+.movielist {
+  background-color: #111;
+  color: #fff;
+  padding: 0 2rem;
+}
